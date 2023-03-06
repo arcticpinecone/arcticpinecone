@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arcticpinecone
-- 👀 I’m interested in restic, rclone, and git at the moment.
-- 🌱 I’m currently learning Powershell and Python.
+- 👀 I’m interested in OpenAI, restic, rclone, and git at the moment.
+- 🌱 I’m currently learning PowerShell and Python.
 - 💞️ I’m looking to collaborate on best practices.
 
 
